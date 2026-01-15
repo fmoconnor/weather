@@ -1,7 +1,8 @@
 New forecast
 #
 ## Today
-Cloudy with a little sunshine
+Cloudy with a little drizzle 
 
 ## Tomorrow
 Rain with outbreaks of sunshine
+
